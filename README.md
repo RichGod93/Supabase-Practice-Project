@@ -1,9 +1,9 @@
-# Starter React Project for the Supabase Course
+# Project files for Supabase Project
 
-**How to run the starter project:**
+**How to run the project:**
 
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
+1. To install all of the project dependencies after downloading, open a terminal and navigate to the project directory. Then, type **npm install**.
+2. Run **npm start** in the project directory to launch the application and view it in a browser at [http://localhost:3000](http://localhost:3000).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+If you make changes, the page will refresh.
+Any lint errors may also appear in the console.
