@@ -1,1 +1,0 @@
-# Supabase-Practice-Project
